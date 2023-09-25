@@ -1,4 +1,0 @@
-ERROR:root:Error processing file test-files-3B.xlsx: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
-ERROR:root:Error processing file test-files-3C.xlsx: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
-INFO:root:Email addresses generated and saved to output\output-test-files-3B.csv and output\output-test-files-3B.tsv
-INFO:root:Email addresses generated and saved to output\output-test-files-3C.csv and output\output-test-files-3C.tsv
