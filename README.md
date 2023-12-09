@@ -1,4 +1,4 @@
-# codelabs (Student Data Processing Project)
+# Codelabs (Student Data Processing Project)
 
 ## Overview
 
