@@ -53,8 +53,8 @@ The purpose of this project is to:
 
 ## Usage
 
-1. Run main.py to process the data.
-2. Check the generated files in the "output" folder in the root directory.
+1. Run `main.py` to process the data.
+2. Check the generated files in the `output` folder in the root directory.
 
 ## Contributing
 
