@@ -63,7 +63,8 @@ If you'd like to contribute to this project:
 - Create a new branch for your changes
 - Submit a [pull request](https://github.com/mikemwai/codelabs/pulls) 
 
-Contributions, bug reports, and feature requests are welcome!
+## Issues
+If you have any issues with the project, feel free to open up an [issue](https://github.com/mikemwai/codelabs/issues).
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
